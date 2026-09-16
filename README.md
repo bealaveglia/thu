@@ -1,15 +1,9 @@
-# James Bond
+# thu
+-CIA
+-FBI
+-MI6
 
-# Job experiences
-- CIA
-- FBI
-- MI6
-
-# Educations
-- Tunghai University
-- Tunghai Highschool
-- Tunghai Junior scool
-- Tunghai elementry school
-
-# Computer skills
-
+# Education 
+-Math
+-Law
+-Engineering
