@@ -1,4 +1,4 @@
-James Bond
+Beatrice La Veglia
 
 # Job experiences
 - CIA
