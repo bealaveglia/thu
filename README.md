@@ -1,15 +1,17 @@
 Beatrice La Veglia
 
 # Job experiences
-- CIA
-- FBI
-- MI6
+- Business Consultant
 
 # Educations
-- Tunghai University
-- Tunghai Highschool
-- Tunghai Junior scool
-- Tunghai elementry school
+- Giulio Cesare High School
+- Bachelor, Torvergata University of Rome
+- MBA, Torvergata University of Rome 
 
 # Computer skills
+- Office
+- SAS
+- Power BI
+
+
 
